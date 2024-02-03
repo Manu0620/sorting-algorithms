@@ -1,0 +1,17 @@
+C:\Users\Manuel\source\repos\SortingAlgorithms\SortingAlgorithms\bin\Release\net8.0-windows\SortingAlgorithms.exe
+C:\Users\Manuel\source\repos\SortingAlgorithms\SortingAlgorithms\bin\Release\net8.0-windows\SortingAlgorithms.deps.json
+C:\Users\Manuel\source\repos\SortingAlgorithms\SortingAlgorithms\bin\Release\net8.0-windows\SortingAlgorithms.runtimeconfig.json
+C:\Users\Manuel\source\repos\SortingAlgorithms\SortingAlgorithms\bin\Release\net8.0-windows\SortingAlgorithms.dll
+C:\Users\Manuel\source\repos\SortingAlgorithms\SortingAlgorithms\bin\Release\net8.0-windows\SortingAlgorithms.pdb
+C:\Users\Manuel\source\repos\SortingAlgorithms\SortingAlgorithms\obj\Release\net8.0-windows\SortingAlgorithms.ParallelSortingForm.resources
+C:\Users\Manuel\source\repos\SortingAlgorithms\SortingAlgorithms\obj\Release\net8.0-windows\SortingAlgorithms.Properties.Resources.resources
+C:\Users\Manuel\source\repos\SortingAlgorithms\SortingAlgorithms\obj\Release\net8.0-windows\SortingAlgorithms.csproj.GenerateResource.cache
+C:\Users\Manuel\source\repos\SortingAlgorithms\SortingAlgorithms\obj\Release\net8.0-windows\SortingAlgorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manuel\source\repos\SortingAlgorithms\SortingAlgorithms\obj\Release\net8.0-windows\SortingAlgorithms.AssemblyInfoInputs.cache
+C:\Users\Manuel\source\repos\SortingAlgorithms\SortingAlgorithms\obj\Release\net8.0-windows\SortingAlgorithms.AssemblyInfo.cs
+C:\Users\Manuel\source\repos\SortingAlgorithms\SortingAlgorithms\obj\Release\net8.0-windows\SortingAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\Manuel\source\repos\SortingAlgorithms\SortingAlgorithms\obj\Release\net8.0-windows\SortingAlgorithms.dll
+C:\Users\Manuel\source\repos\SortingAlgorithms\SortingAlgorithms\obj\Release\net8.0-windows\refint\SortingAlgorithms.dll
+C:\Users\Manuel\source\repos\SortingAlgorithms\SortingAlgorithms\obj\Release\net8.0-windows\SortingAlgorithms.pdb
+C:\Users\Manuel\source\repos\SortingAlgorithms\SortingAlgorithms\obj\Release\net8.0-windows\SortingAlgorithms.genruntimeconfig.cache
+C:\Users\Manuel\source\repos\SortingAlgorithms\SortingAlgorithms\obj\Release\net8.0-windows\ref\SortingAlgorithms.dll
